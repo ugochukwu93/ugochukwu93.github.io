@@ -1,0 +1,105 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+header {
+    background-image: url(profish.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    opacity: 0.6;
+    color: white;
+    font-size: larger;
+}
+ .box li {
+    display: inline;
+    padding: 10px;
+    color: powderblue;
+
+}
+ul {
+    list-style-type: none;
+    
+}
+.box1 {
+    float: left;
+    width: 100%;
+}
+#com {
+    float: left;
+}
+#acc {
+    float: right;
+}
+a {
+    text-decoration: none;
+    color: rgb(101, 169, 179);
+}
+#on {
+    font-weight: bold;
+}
+.box2{
+    float: left;
+    width: 50%;
+    padding-top: 5%;
+    
+}
+.box3 {
+    float: left;
+    width: 100%;
+    padding-top: 15%;
+    
+    
+}
+#fin {
+    float: left
+}
+
+#try {
+    float: right;
+}
+.box4 {
+    float: left;
+    width: 100%;
+}
+#ann {
+    float: left;
+}
+#dun {
+    float: right;
+}
+.container {
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.sig {
+    box-sizing: border-box;
+    border: 1px solid rgb(87, 81, 81);
+    float: left;
+    width: 45%;
+    height: 120px;
+    padding: 7px;
+    background-color: rgba(223, 232, 233, 0.856);
+    margin: 10px;
+}
+.mon {
+    padding-top: 40px;
+}
+#need {
+    float: right;
+}
+.emp {
+    float: left;
+    width: 20%;
+}
+#foot {
+   padding-top: 20%;
+}
+.cred{
+    padding-top: 20px;
+}
+a:hover{
+    color: darkred;
+}
+
